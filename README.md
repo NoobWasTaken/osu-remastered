@@ -22,7 +22,7 @@ Engine Creator: Unity Technolgies
 
  # How to play (optional if you know how to play osu!):
 
-Left-Click = Note click
+Left-Click = Note click / Select level
 
 Keep your health above zero. If you don't, You will lose!
 
