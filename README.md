@@ -2,7 +2,7 @@ Note: game is in unreleased beta stage.
 
 # osu-remastered
 The remastered Unity version of osu! on GitHub.
-@NoobWasTaken
+by NoobWasTaken
 
 # Credits (stanzas included)
 
