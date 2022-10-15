@@ -20,7 +20,7 @@ Engine Creator: Unity Technolgies
 
 
 
-How to play (optional if you know how to play osu!):
+ # How to play (optional if you know how to play osu!):
 
 Left-Click = Note click
 
