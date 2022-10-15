@@ -26,6 +26,10 @@ Left-Click = Note click / Select level
 
 More accuracy = More health
 
+Timing = More or less points
+
+Japanesse symbols = More or less points + extra score
+
 Keep your health above zero. If you don't, You will lose!
 
 Play fast and normally combined. This can really improve your clicks and accuracy.
